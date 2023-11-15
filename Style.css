@@ -1,0 +1,60 @@
+.img-A321neo {
+    width: 1000px;
+    height: 700px;
+}
+.A321-Neo {
+    background-color: rgb(50, 53, 205);
+    color: white;
+    border: 2px solid rgb(50, 53, 205);
+    margin: 20px;
+    padding:10px;
+    
+  }
+.A330-Neo {
+    background-color: rgb(50, 53, 205);
+    color: white;
+    border: 2px solid rgb(50, 53, 205);
+    margin: 20px;
+    padding:10px;
+    
+  }
+.img-A330neo {
+    width: 1000px;
+    height: 700px;
+}
+.img-A350-900 {
+  width: 1000px;
+  height: 700px;
+}
+.A350-900XWB {
+  background-color: rgb(50, 53, 205);
+  color: white;
+  border: 2px solid rgb(50, 53, 205);
+  margin: 20px;
+  padding:10px;
+  
+}
+.B747-8i {
+  background-color: rgb(50, 53, 205);
+  color: white;
+  border: 2px solid rgb(50, 53, 205);
+  margin: 20px;
+  padding:10px;
+  
+}
+.B777 {
+  background-color: rgb(50, 53, 205);
+  color: white;
+  border: 2px solid rgb(50, 53, 205);
+  margin: 20px;
+  padding:10px;
+  
+}
+.B787 {
+  background-color: rgb(50, 53, 205);
+  color: white;
+  border: 2px solid rgb(50, 53, 205);
+  margin: 20px;
+  padding:10px;
+  
+}
